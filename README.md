@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnilRuhela
-- 👀 I’m interested in Software development backend
-- 🌱 I’m currently learning Spring MVC
+- 👀 I’m interested in Software development 
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Java Full Stack Programmer
 - 📫 How to reach me :
           Email: anilruhela258@gmail.com 
